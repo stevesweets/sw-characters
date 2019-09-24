@@ -123,165 +123,164 @@ class CharacterCard extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Compone
   }
 
   render() {
-    console.log(this.state.character);
     return __jsx("div", {
       className: "w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/6 m-4 px-2 rounded-lg bg-gray-200",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 18
+        lineNumber: 17
       },
       __self: this
     }, __jsx("div", {
       className: "px-6 py-4",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 19
+        lineNumber: 18
       },
       __self: this
     }, __jsx("h2", {
       className: "font-bold text-xl mb-0",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 20
+        lineNumber: 19
       },
       __self: this
     }, this.state.character.name)), __jsx("div", {
       className: "px-6 py-4 mb-2",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 22
+        lineNumber: 21
       },
       __self: this
     }, __jsx("table", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 23
+        lineNumber: 22
       },
       __self: this
     }, __jsx("tbody", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 24
+        lineNumber: 23
       },
       __self: this
     }, __jsx("tr", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 25
+        lineNumber: 24
       },
       __self: this
     }, __jsx("th", {
       className: "text-left text-xs pr-5",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 26
+        lineNumber: 25
       },
       __self: this
     }, "Height"), __jsx("td", {
       className: "text-xs",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 27
+        lineNumber: 26
       },
       __self: this
     }, this.state.character.height)), __jsx("tr", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 29
+        lineNumber: 28
       },
       __self: this
     }, __jsx("th", {
       className: "text-left text-xs pr-5",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 30
+        lineNumber: 29
       },
       __self: this
     }, "Year of Birth"), __jsx("td", {
       className: "text-xs",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 31
+        lineNumber: 30
       },
       __self: this
     }, this.state.character.birth_year)), __jsx("tr", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 33
+        lineNumber: 32
       },
       __self: this
     }, __jsx("th", {
       className: "text-left text-xs pr-5",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 34
+        lineNumber: 33
       },
       __self: this
     }, "Hair Colour"), __jsx("td", {
       className: "text-xs",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 35
+        lineNumber: 34
       },
       __self: this
     }, this.state.character.hair_color)), __jsx("tr", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 37
+        lineNumber: 36
       },
       __self: this
     }, __jsx("th", {
       className: "text-left text-xs pr-5",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 38
+        lineNumber: 37
       },
       __self: this
     }, "Eye Colour"), __jsx("td", {
       className: "text-xs",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 39
+        lineNumber: 38
       },
       __self: this
     }, this.state.character.eye_color)), __jsx("tr", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 41
+        lineNumber: 40
       },
       __self: this
     }, __jsx("th", {
       className: "text-left text-xs pr-5",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 42
+        lineNumber: 41
       },
       __self: this
     }, "Skin Colour"), __jsx("td", {
       className: "text-xs",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 43
+        lineNumber: 42
       },
       __self: this
     }, this.state.character.skin_color)), __jsx("tr", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 45
+        lineNumber: 44
       },
       __self: this
     }, __jsx("th", {
       className: "text-left text-xs pr-5",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 46
+        lineNumber: 45
       },
       __self: this
     }, "Gender"), __jsx("td", {
       className: "text-xs",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 47
+        lineNumber: 46
       },
       __self: this
     }, this.state.character.gender))))));
