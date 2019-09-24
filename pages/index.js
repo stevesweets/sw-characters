@@ -1,3 +1,5 @@
-export default () => (
-	<h1>hello</h1>
+const Index = () => (
+	<h1>Characters</h1>
 )
+
+export default Index;
